@@ -18,5 +18,20 @@
     <ClInclude Include="TextSurvey.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="TextStream.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Common.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Support.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Parsers.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Json.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
